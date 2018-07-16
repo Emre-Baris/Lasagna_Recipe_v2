@@ -1,0 +1,44 @@
+body {
+    
+    color:darkblue;
+    
+    font-family:cursive;
+    
+    font-size: 20px;
+    
+    background-color: #FF0068;
+    
+    background-size:cover;
+    
+    width: 50%;
+    
+    margin:auto;
+}
+
+
+img{
+    
+    border: 5px solid red;
+    
+    border-radius: 15%;
+    
+    display:block;
+    
+    margin: auto;
+    
+}
+
+h2{
+    
+    border bottom: 2px
+    
+    
+    
+}
+
+.bebek{
+    
+    text-align: center;
+    
+    
+} 
